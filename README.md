@@ -33,3 +33,9 @@ Este repositorio contiene los programas en python desarrollados durante la clase
 - p16-verificarSuma.py
 - p17-convertirTemperaturaV2.py
 - p18-pagaTrabajadorV2.py
+
+# Actividad 04
+- p19-verificarSumav2.py
+- p20-leyDeNewton.py
+- p21-aceptarEstudiante.py
+- p22-angulos.py
