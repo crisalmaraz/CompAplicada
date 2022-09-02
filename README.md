@@ -19,10 +19,17 @@ Este repositorio contiene los programas en python desarrollados durante la clase
 - p07-funcionesTrigonometricas.py
 - p08-dividirCifras.py
 
-# Actividad 03
+# Tarea 01
 - p09-hipotenusaTriangulo.py
 - p10-tercerAngulo.py
 - p11-convertirTemperatura.py
 - p12-volumenCilindrico.py
 - p13-calculoTiempo.py
 - p14-numeroSuerte.py
+
+# Actividad 03
+
+- p15-verificarNumero.py
+- p16-verificarSuma.py
+- p17-convertirTemperaturaV2.py
+- p18-pagaTrabajadorV2.py
