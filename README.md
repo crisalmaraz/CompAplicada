@@ -39,3 +39,17 @@ Este repositorio contiene los programas en python desarrollados durante la clase
 - p20-leyDeNewton.py
 - p21-aceptarEstudiante.py
 - p22-angulos.py
+
+# Tarea 02
+- p23-numerosConsecutivos.py
+- p24-numeroMayor.py
+- p25-diaDeLaSemana.py
+- p26-numerosRomanos.py
+- p27-calculoNotas.py
+- p28-aceptarEstudiante.py
+
+# Actividad 05
+- p29-numeros1a100.py
+- p30-numeros100a1.py
+- p31-numeros1a200.py
+- p32-numeros1a200Suma100.py
