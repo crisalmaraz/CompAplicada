@@ -1,4 +1,4 @@
-# Repositorio de programas de la meteria de Computación aplicada
+# Repositorio de programas de la materia de Computación aplicada
 
 # Christian Abraham Almaraz de Horta
 # crisalmaraz
