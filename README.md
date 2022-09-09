@@ -53,3 +53,10 @@ Este repositorio contiene los programas en python desarrollados durante la clase
 - p30-numeros100a1.py
 - p31-numeros1a200.py
 - p32-numeros1a200Suma100.py
+
+# Actividad 06
+- p33-cuentaSumaPNC.py
+- p34-tablaMultiplicar.py
+- p35-tablaMultiplicar.py
+- p36-tablaConversion.py
+- p37-conjeturaCollatz.py
