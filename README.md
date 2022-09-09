@@ -60,3 +60,11 @@ Este repositorio contiene los programas en python desarrollados durante la clase
 - p35-tablaMultiplicar.py
 - p36-tablaConversion.py
 - p37-conjeturaCollatz.py
+
+# Tarea 03
+- p38-numerosImparesAsc.py
+- p39-numerosParesDesc.py
+- p40-promedioYsumaNum.py
+- p41-sumaHasta200.py
+- p42-listadoTemperaturas.py
+- p43-númeroMayor.py
