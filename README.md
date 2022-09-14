@@ -68,3 +68,10 @@ Este repositorio contiene los programas en python desarrollados durante la clase
 - p41-sumaHasta200.py
 - p42-listadoTemperaturas.py
 - p43-númeroMayor.py
+
+# Actividad 07
+- p44-for1a100.py
+- p45-100a1.py
+- p46-arribaAbajo.py
+- p47-paresImparesSuma.py
+- p48-sumaNnumeros.py
