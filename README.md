@@ -83,3 +83,11 @@ Este repositorio contiene los programas en python desarrollados durante la clase
 - p52-trianguloAsteriscos.py
 - p53-cuadrado.py
 
+# Tarea 04
+- p54-numeros10en10.py
+- p55-sumaDePares.py
+- p56-secuenciaDeN.py
+- p57-secuenciaDeNV2.py
+- p58-secuenciaTerminos.py
+- p59-secuenciaTerminosV2.py
+
