@@ -75,3 +75,11 @@ Este repositorio contiene los programas en python desarrollados durante la clase
 - p46-arribaAbajo.py
 - p47-paresImparesSuma.py
 - p48-sumaNnumeros.py
+
+# Actividad 08
+- p49-factorial.py
+- p50-tablaMultiplicarFor.py
+- p51-tablasMultiplicarV2.py
+- p52-trianguloAsteriscos.py
+- p53-cuadrado.py
+
