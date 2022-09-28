@@ -91,3 +91,7 @@ Este repositorio contiene los programas en python desarrollados durante la clase
 - p58-secuenciaTerminos.py
 - p59-secuenciaTerminosV2.py
 
+# Actividad 09
+- p60-contarVocales.py
+- p61-contarLetraDigOtr.py
+- p62-dividirContar.py
