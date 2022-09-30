@@ -95,3 +95,8 @@ Este repositorio contiene los programas en python desarrollados durante la clase
 - p60-contarVocales.py
 - p61-contarLetraDigOtr.py
 - p62-dividirContar.py
+
+# Actividad 10
+- p63-procesarTexto.py
+- p64-formatoDatos1.py
+- p65-formatoDatos2.py
