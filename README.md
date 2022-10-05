@@ -100,3 +100,10 @@ Este repositorio contiene los programas en python desarrollados durante la clase
 - p63-procesarTexto.py
 - p64-formatoDatos1.py
 - p65-formatoDatos2.py
+
+# Actividad 11
+- p70-accederLista.py
+- p71-cambiarLista.py
+- p72-agregarLista.py
+- p73-removerLista.py
+- p74-iterarLista.py
