@@ -101,6 +101,12 @@ Este repositorio contiene los programas en python desarrollados durante la clase
 - p64-formatoDatos1.py
 - p65-formatoDatos2.py
 
+# Tarea 05
+- p66-vocalesConsonsntes.py
+- p67-contarLetrasDigitosSimbolos.py
+- p68-juntarPalabras.py
+- p69-tablaConversiones.py
+
 # Actividad 11
 - p70-accederLista.py
 - p71-cambiarLista.py
