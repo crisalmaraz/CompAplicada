@@ -113,3 +113,10 @@ Este repositorio contiene los programas en python desarrollados durante la clase
 - p72-agregarLista.py
 - p73-removerLista.py
 - p74-iterarLista.py
+
+# Actividad 12
+- p75-procesarCalif.py
+- p76-sumarListas.py
+- p77-diaPaga.py
+- p78-nombreEdad.py
+- p79-listaAzar.py
