@@ -132,3 +132,7 @@ Este repositorio contiene los programas en python desarrollados durante la clase
 # Actividad 13
 - p86-conjuntos.py
 - p87-opConjuntos.py
+
+# Actividad 14
+- p90-estudiante.py
+- p91-calificaciones.py
