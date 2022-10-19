@@ -120,3 +120,15 @@ Este repositorio contiene los programas en python desarrollados durante la clase
 - p77-diaPaga.py
 - p78-nombreEdad.py
 - p79-listaAzar.py
+
+# Tarea 06
+- p80-procesarNotas.py
+- p81-listasMultiplica.py
+- p82-mesDiasNombre.py
+- p83-listasAleatorios.py
+- p84-ciudades.py
+- p85-listaImpares.py
+
+# Actividad 13
+- p86-conjuntos.py
+- p87-opConjuntos.py
