@@ -140,3 +140,13 @@ Este repositorio contiene los programas en python desarrollados durante la clase
 # Actividad 14
 - p90-estudiante.py
 - p91-calificaciones.py
+
+# Actividad 15
+- p92-nombresEdades.py
+- p93-procesarPizza.py
+- p94-estudiantes.py
+
+# Tarea 08
+- p95-diasSemana.py
+- p96-numerosRomanos.py
+- p97-contarCaracteres.py
